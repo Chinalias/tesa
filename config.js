@@ -3,7 +3,7 @@ const config = {
     BOT_TOKEN: process.env.BOT_TOKEN,
     prefix: "*",
     bot_version: "2.1.0",
-    DefaultGuildID: "412262889156771842",
+    DefaultGuildID: "331081268731052042",
     dbl_token: process.env.dbl_token,
 
     //MySQL
